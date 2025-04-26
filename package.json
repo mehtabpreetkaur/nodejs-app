@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehtabpreetkaur/nodejs-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehtabpreetkaur/nodejs-app/issues"
+  },
+  "homepage": "https://github.com/mehtabpreetkaur/nodejs-app#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
