@@ -1,4 +1,4 @@
-name: Build and Deployment pipeline
+name: Build and Deploy pipeline
 
 on:
   push:
